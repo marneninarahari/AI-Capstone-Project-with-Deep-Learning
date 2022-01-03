@@ -1,7 +1,9 @@
 # IBM-AI-Capstone-Project-with-Deep-Learning
 
 AI Project with Deep Learning: Image Classification
+
 Project Overview:
+
 •	The dataset used is concrete crack images for classification, there are 40,000 color images, 20,000 with cracks (positive) and 20,000 with no cracks (negatives). 75% of the images for training, 23.75% for validation, and 1.25% for testing are used.
 I. Image Classification Using Keras
 •	Built an image classifier using the VGG16 pre-trained model, evaluated and compared its performance with another model built by using the ResNet50 pre-trained model.
